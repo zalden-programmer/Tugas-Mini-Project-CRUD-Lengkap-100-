@@ -1,0 +1,125 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <table border="1" cellpadding="5" cellspacing="0">
+
+        <!-- Judul -->
+        <tr>
+            <td colspan="11"><strong>Data Anggota Perpustakaan</strong></td>
+        </tr>
+        <tr>
+            <td colspan="11">Diekspor pada: 04-05-2026 13:13:26</td>
+        </tr>
+        <tr></tr>
+
+        <!-- Header Tabel -->
+        <tr>
+            <td><strong>No</strong></td>
+            <td><strong>Kode Anggota</strong></td>
+            <td><strong>Nama</strong></td>
+            <td><strong>Email</strong></td>
+            <td><strong>Telepon</strong></td>
+            <td><strong>Alamat</strong></td>
+            <td><strong>Tanggal Lahir</strong></td>
+            <td><strong>Jenis Kelamin</strong></td>
+            <td><strong>Pekerjaan</strong></td>
+            <td><strong>Tanggal Daftar</strong></td>
+            <td><strong>Status</strong></td>
+        </tr>
+
+        <!-- Data -->
+                        <tr>
+                    <td>1</td>
+                    <td>AGT-006</td>
+                    <td>Meiffio Hasanain M</td>
+                    <td>Meiffio@uingusdur.ac.id</td>
+                    <td>085723456789</td>
+                    <td>Rowolaku, Pekalongan</td>
+                    <td>12-10-2003</td>
+                    <td>Laki-laki</td>
+                    <td>Mahasiswa</td>
+                    <td>03-05-2026</td>
+                    <td>Aktif</td>
+                </tr>
+                            <tr>
+                    <td>2</td>
+                    <td>AGT-001</td>
+                    <td>Budi Santoso</td>
+                    <td>budi.santoso@email.com</td>
+                    <td>081234567890</td>
+                    <td>Jl. Merdeka No. 10, Jakarta</td>
+                    <td>15-05-1995</td>
+                    <td>Laki-laki</td>
+                    <td>Mahasiswa</td>
+                    <td>10-01-2024</td>
+                    <td>Aktif</td>
+                </tr>
+                            <tr>
+                    <td>3</td>
+                    <td>AGT-002</td>
+                    <td>Siti Nurhaliza</td>
+                    <td>siti.nur@email.com</td>
+                    <td>081234567891</td>
+                    <td>Jl. Sudirman No. 25, Bandung</td>
+                    <td>20-08-1998</td>
+                    <td>Perempuan</td>
+                    <td>Pegawai</td>
+                    <td>15-01-2024</td>
+                    <td>Aktif</td>
+                </tr>
+                            <tr>
+                    <td>4</td>
+                    <td>AGT-003</td>
+                    <td>Ahmad Dhani</td>
+                    <td>ahmad.dhani@email.com</td>
+                    <td>081234567892</td>
+                    <td>Jl. Gatot Subroto No. 5, Surabaya</td>
+                    <td>10-03-1992</td>
+                    <td>Laki-laki</td>
+                    <td>Pegawai</td>
+                    <td>01-02-2024</td>
+                    <td>Aktif</td>
+                </tr>
+                            <tr>
+                    <td>5</td>
+                    <td>AGT-004</td>
+                    <td>Dewi Lestari</td>
+                    <td>dewi.lestari@email.com</td>
+                    <td>081234567893</td>
+                    <td>Jl. Ahmad Yani No. 30, Yogyakarta</td>
+                    <td>05-12-2000</td>
+                    <td>Perempuan</td>
+                    <td>Mahasiswa</td>
+                    <td>10-02-2024</td>
+                    <td>Aktif</td>
+                </tr>
+                            <tr>
+                    <td>6</td>
+                    <td>AGT-005</td>
+                    <td>Rizky Febian</td>
+                    <td>rizky.feb@email.com</td>
+                    <td>081234567894</td>
+                    <td>Jl. Diponegoro No. 15, Semarang</td>
+                    <td>18-07-1997</td>
+                    <td>Laki-laki</td>
+                    <td>Pelajar</td>
+                    <td>15-02-2024</td>
+                    <td>Nonaktif</td>
+                </tr>
+            
+        <!-- Total -->
+        <tr></tr>
+        <tr>
+            <td colspan="11">
+                <strong>Total Anggota: 6 orang</strong>
+            </td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
