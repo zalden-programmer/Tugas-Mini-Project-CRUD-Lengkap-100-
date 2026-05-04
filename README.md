@@ -1,2 +1,2 @@
 # Tugas-Mini-Project-CRUD-Lengkap-100-
-Buat sistem CRUD lengkap untuk Tabel Anggota Perpustakaan
+Buat sistem CRUD lengkap untuk Tabel Anggota Perpustakaan (+ upload foto anggota dan export ke file excel)
